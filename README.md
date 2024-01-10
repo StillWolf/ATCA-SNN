@@ -16,7 +16,7 @@ The temporal credit assignment (TCA) problem, which aims to detect predictive fe
 | :----:      |   :----:    |    :----:     |       :----:      |
 | MedleyDB   | Specialized CNN <br> LSTM <br> Deep SNN <br> SLAYER <br> STCA <br> **Ours (ATCA)**  | 97.51 <br> 94.62 <br> 80.73 <br> - <br> 97.25 <br> **98.59** | - <br> - <br> - <br> 48.23 <br> 89.22 <br> **92.33** <br>|
 | TIDIGITS    | Single layer SNN <br> Spiking CNN <br> MFCC and RNN <br> LSM <br> ETDP <br> MPD-AL <br> SLAYER <br> STCA <br> **Ours (ATCA)** | 91.00 <br> 96.00 <br> 96.10 <br> 92.30 <br> 95.80 <br> 95.35 <br> - <br> 94.81 <br> **97.20** | - <br> - <br> - <br> - <br> - <br> - <br> 59.50 <br> 89.95 <br> **91.51**|
-| DVS-Gesture | SLAYER <br> STCA <br> **Ours (ATCA)** | - <br> 79.75 <br> 90.54 | 39.24 <br> 69.58 <br> 77.08|
+| DVS-Gesture | SLAYER <br> STCA <br> **Ours (ATCA)** | - <br> 79.75 <br> **90.54** | 39.24 <br> 69.58 <br> **77.08**|
 
 ## Usage
 
