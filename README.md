@@ -25,7 +25,7 @@ To reproduce the results in our paper:
 
 All params can be changed in params.py. For recognition tasks, please use MSE loss function. For TCA tasks, please use "ATCA_TCA_Loss" in loss_func.py.
 
-The code in the main branch is using for instrument recognition and sound classification, and the code in the "DVS-Gesture" branch are wiriting for event data.
+The code in the main branch is using for instrument recognition and sound classification, and the code in the "DVS-Gesture" branch are writed for event data.
 
 ## Neuron Params Test
 
